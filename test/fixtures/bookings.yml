@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  btime: 2017-02-10 14:14:25
+  user_id: 1
+  bike_id: 1
+
+two:
+  btime: 2017-02-10 14:14:25
+  user_id: 1
+  bike_id: 1
